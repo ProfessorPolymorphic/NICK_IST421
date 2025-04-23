@@ -1,0 +1,10 @@
+---
+title: "NICK"
+---
+
+## DEFENSEMEN POINTS PRODUCTION
+
+![](defensemen_points_over_time.gif)
+
+
+Yay?
