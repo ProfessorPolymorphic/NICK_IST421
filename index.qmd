@@ -1,10 +1,10 @@
 ---
-title: "NICK"
+title: "ANIMATED VISUALIZATION"
 ---
 
-## DEFENSEMEN POINTS PRODUCTION
+## POINTS PRODUCTION OVER TIME
 
 ![](defensemen_points_over_time.gif)
 
 
-Yay?
+This animation shows the accumulation of Total Points (Goals + Assists) by the top 10 Defensemen in the NHL over the 2024-2025 regular season.  Data are from [hockey-reference.com](https://www.hockey-reference.com/players/).
